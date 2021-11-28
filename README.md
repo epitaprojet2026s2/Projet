@@ -13,8 +13,8 @@ Langues de programmation utilisables :
 | Languages | Supported          |
 | ------- | ------------------ |
 | C# | :white_check_mark:| 
-| OCAML | :white_check_mark:| 
-| F# | 🟠| 
+| OCAML | :x:| 
+| F# | :x:| 
 | OTHERS   | :x:                |
 
 Plateformes :
@@ -23,7 +23,7 @@ Plateformes :
 | ------- | ------------------ |
 | WINDOWS 10 & 11 | :white_check_mark:| 
 | WINDOWS 8.1 and below | :x:| 
-| LINUX | 🟠| 
+| LINUX | :white_check_mark:| 
 | OTHERS   | :x:                |
 
 ## Avancement :
