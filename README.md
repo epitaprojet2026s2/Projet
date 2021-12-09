@@ -26,6 +26,13 @@ Plateformes :
 | LINUX | :white_check_mark:| 
 | OTHERS   | :x:                |
 
+Unity Version :
+
+| Unity Version | Supported          |
+| ------- | ------------------ |
+| 2021.2.5f1 | :white_check_mark:| 
+| OTHERS   | :x:                |
+
 ## Avancement :
 
 ### 22/11/2021 : Lancement du Projet 
