@@ -30,7 +30,7 @@ Unity Version :
 
 | Unity Version | Supported          |
 | ------- | ------------------ |
-| 2021.2.5f1 | :white_check_mark:| 
+| 2021.2.8f1 | :white_check_mark:| 
 | OTHERS   | :x:                |
 
 ## Avancement :
